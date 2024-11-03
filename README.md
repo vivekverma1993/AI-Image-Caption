@@ -94,5 +94,5 @@ Feel free to fork this project, submit pull requests, or report issues.
 This project is licensed under the MIT License.
 
 ---
-**Developed by [Your Name]**
+**Developed by Vivek Verma**
 
